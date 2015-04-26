@@ -1,2 +1,3 @@
 # hello-world
 First try at GitHub
+Checking how commit works...
